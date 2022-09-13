@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariyakhan11&label=Profile%20views&color=0e75b6&style=flat" alt="fariyakhan11" /> </p>
 
-- 🔭 I’m currently working on **Mobile Application Using Flutter with Augmented Reality**
+- 🔭 I’m currently working as **Data analyst using pyhton**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Data Visualization and Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fariyakhan11](https://github.com/fariyakhan11)
-
-- 💬 Ask me about **Web and App Development ,Python**
 
 - 📫 How to reach me **fariyakhan644@gmail.com**
 
