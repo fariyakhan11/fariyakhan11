@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariyakhan11&label=Profile%20views&color=0e75b6&style=flat" alt="fariyakhan11" /> </p>
 
-- 🔭 I’m currently working as **Data analyst using pyhton**
+- 🔭 I’m currently working as **Mern Stack Developer**
 
-- 🌱 I’m currently learning **Data Visualization and Machine learning**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fariyakhan11](https://github.com/fariyakhan11)
 
