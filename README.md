@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **fariyakhan644@gmail.com**
 
+- My Portfolio profile link https://wonderful-hamster-06fd0c.netlify.app/
+
 - ⚡ Fun fact **I am passionate painter too. ig link: https://www.instagram.com/fariya._.k/**
 
 <h3 align="left">Connect with me:</h3>
